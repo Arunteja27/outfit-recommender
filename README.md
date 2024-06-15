@@ -34,6 +34,7 @@ We used a bunch of different tools for phase 1 - **AWS S3**, **AWS Rekognition**
 - **OpenAI GPT**: Now, you may be asking - bozos, why couldn't you just upload images to GPT4o, it does it now! Well we _could_, but it's pretty expensive to upload and analyse images with GPT (relatively speaking). With GPT, we just send it images' labelling info (which is plain text) and it will send back it's gigabrain insights. _BUUUTT_ what about AWS Bedrock? or Google Gemini? or Meta AI? _Sigh_, so many options. To be honest, we're still in Phase 1 of this project, we might pivot to another LLM for insights or train one ourselves after reflecting and analysing how each phase went! _Oooh_ AND, we were stuck whether or not to pick GPT or AWS Bedrock for insights provision, but this Medium article [here](https://medium.com/version-1/aws-bedrocks-claude-2-100k-vs-azure-openai-s-gpt-4-32k-a-comparative-analysis-96e3eb9fd05a) pretty much sealed the deal on that - GPT is better than Bedrock right now for dataset analysis. Again, our choice of LLM could change in Phase 2 and onwards.
 
 **TODOs:** 
+- [ ] Write intro to project in `README.md` 
 - [ ] A small dataset should be uploaded to S3 
 - [ ] Rekognition should automatically process these new images
 - [ ] Rekognition should return labels for each image
