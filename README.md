@@ -1,4 +1,4 @@
-# SmartWardrobe
+# SmartWardrobe!
 
 ## SmartWardrobe: Your Personal AI Outfit Assistant
 Welcome to SmartWardrobe! This project is a SaaS application designed to help users decide what outfit to wear based on their current selection of clothes, the weather, and their daily routine. SmartWardrobe leverages the power of machine learning to understand users' wardrobes, analyze clothing colors, and determine the suitability of clothes for different weather conditions and activities.
