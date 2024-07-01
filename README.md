@@ -27,7 +27,7 @@ Welcome to SmartWardrobe! This application is designed to help users decide what
 **Continuous Learning:** The more you use SmartWardrobe, the better it gets at understanding your preferences and suggesting outfits that match your style and needs.
 
 ## Architecture
-For the project's system design/architecture, please check out `ARCHITECTURE.MD`
+For the project's system design/architecture, please check out [`ARCHITECTURE.MD`](https://github.com/Arunteja27/outfit-recommender/blob/dev/v1/ARCHITECTURE.md)
 
 ## Contact
 For any questions or feedback, please contact us at aruntejavk@gmail.com or anirudhmahesh13@gmail.com 
